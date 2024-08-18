@@ -26,7 +26,7 @@
 </div>
 
 > [!NOTE]
-> I have scaled back development of car axle client. Don't expect updates.
+> I have scaled up development of car axle client. expect updates.
 
 ## Features
 
